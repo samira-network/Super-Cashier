@@ -66,4 +66,20 @@ Melakukan check detail pesanan apakah pesanan sudah masuk semua dan melakukan re
 ![5555](https://github.com/samira-network/Super-Cashier/assets/137299240/e5e77022-3a21-43d2-97f9-8ee594beb4c1)
 
 
+# Test Code
 
+1. Melakukan memasukan item dan check detail item yag sudah dimasukan 
+![ccceekScreenshot 2023-07-09 161913](https://github.com/samira-network/Super-Cashier/assets/137299240/1a57fe7b-e439-4978-a9dd-e2fda121354b)
+
+2. melakukan delete item yang tidak diinginkan
+   ![delete pasta](https://github.com/samira-network/Super-Cashier/assets/137299240/90bff3ce-52c3-4f98-82fc-6f88505b397e)
+
+3. Melakukan cancel semua order
+   ![cancel](https://github.com/samira-network/Super-Cashier/assets/137299240/e250fd09-e244-4267-b547-78cf206a967e)
+
+4. Melakuka perhitungan akhir
+   ![image](https://github.com/samira-network/Super-Cashier/assets/137299240/accccef9-b765-4fd3-bc2e-c1a23b1cf319)
+
+# Kesimpulan 
+
+# Saran 
