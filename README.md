@@ -50,18 +50,17 @@ Melakukan check detail pesanan apakah pesanan sudah masuk semua dan melakukan re
 
 
 # Test Code
+- Melakukan Memasukan item
+![cek 1](https://github.com/samira-network/Super-Cashier/assets/137299240/c11b9828-2807-4fb7-951a-92e128601bad)
 
-1. Melakukan memasukan item dan check detail item yag sudah dimasukan 
+- Melakukan menghapus item
+![delete pasta](https://github.com/samira-network/Super-Cashier/assets/137299240/07ad0180-cba5-4e50-a454-4a91f2f99793)
 
+- Melakukan cancel pesanan
+![cancel](https://github.com/samira-network/Super-Cashier/assets/137299240/baa00359-bd86-489a-bae0-cdbfc93f4942)
 
-2. melakukan delete item yang tidak diinginkan
-
-
-4. Melakukan cancel semua order
-![cancel](https://github.com/samira-network/Super-Cashier/assets/137299240/e250fd09-e244-4267-b547-78cf206a967e)
-
-5. Melakukan perhitungan akhir
-![image](https://github.com/samira-network/Super-Cashier/assets/137299240/accccef9-b765-4fd3-bc2e-c1a23b1cf319)
+- Melakukan perhitungan total 
+![ccceekScreenshot 2023-07-09 161913](https://github.com/samira-network/Super-Cashier/assets/137299240/d3b7a375-57f4-407f-98e3-c36252a59d8d)
 
 # Kesimpulan 
 - User dapat melakukan menambahkan item 
