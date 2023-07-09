@@ -60,7 +60,7 @@ Melakukan check detail pesanan apakah pesanan sudah masuk semua dan melakukan re
 4. Melakukan cancel semua order
 ![cancel](https://github.com/samira-network/Super-Cashier/assets/137299240/e250fd09-e244-4267-b547-78cf206a967e)
 
-5. Melakuka perhitungan akhir
+5. Melakukan perhitungan akhir
 ![image](https://github.com/samira-network/Super-Cashier/assets/137299240/accccef9-b765-4fd3-bc2e-c1a23b1cf319)
 
 # Kesimpulan 
