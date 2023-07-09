@@ -52,10 +52,10 @@ Melakukan check detail pesanan apakah pesanan sudah masuk semua dan melakukan re
 # Test Code
 
 1. Melakukan memasukan item dan check detail item yag sudah dimasukan 
-![ccceekScreenshot 2023-07-09 161913](https://github.com/samira-network/Super-Cashier/assets/137299240/1a57fe7b-e439-4978-a9dd-e2fda121354b)
+
 
 2. melakukan delete item yang tidak diinginkan
-![delete pasta](https://github.com/samira-network/Super-Cashier/assets/137299240/90bff3ce-52c3-4f98-82fc-6f88505b397e)
+
 
 4. Melakukan cancel semua order
 ![cancel](https://github.com/samira-network/Super-Cashier/assets/137299240/e250fd09-e244-4267-b547-78cf206a967e)
