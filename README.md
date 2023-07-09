@@ -19,23 +19,6 @@ Saya telah membuat sistem kasir sederhana yang memenuhi persyaratan berikut:
 <img width="1364" alt="Flowchart Super Cashier" src="https://github.com/samira-network/Super-Cashier/assets/137299240/72f92849-bc2c-4c93-9846-feba49bb58ed">
 
 # Penjelasan Program 
-Objective : 
-  Customers can enter any kind of item that is available in the store and are able to update, check, or cancel it as needed.
-  
-Requirement : 
--Customer has ID transaction :	
-  Each customer is assigned a unique transaction ID
-Adding to Cart:
-  Selected items are added to the virtual shopping cart.
--Updating and Checking Orders:
-  Easy updates to quantities or removal of items.
-  Review order details before checkout.
--Order Cancellation:
-  Customers can request order cancellation.
-  Efficient handling and refunds or adjustments.
--Accurate Total Calculation:
-  Total amount is calculated with high accuracy.
-  Discounts are applied based on applicable promotions.
 
 Tabulate : ini digunakan untuk menghasilkan penyimpanan data dalam bentuk table
 
@@ -72,14 +55,28 @@ Melakukan check detail pesanan apakah pesanan sudah masuk semua dan melakukan re
 ![ccceekScreenshot 2023-07-09 161913](https://github.com/samira-network/Super-Cashier/assets/137299240/1a57fe7b-e439-4978-a9dd-e2fda121354b)
 
 2. melakukan delete item yang tidak diinginkan
-   ![delete pasta](https://github.com/samira-network/Super-Cashier/assets/137299240/90bff3ce-52c3-4f98-82fc-6f88505b397e)
+![delete pasta](https://github.com/samira-network/Super-Cashier/assets/137299240/90bff3ce-52c3-4f98-82fc-6f88505b397e)
 
-3. Melakukan cancel semua order
-   ![cancel](https://github.com/samira-network/Super-Cashier/assets/137299240/e250fd09-e244-4267-b547-78cf206a967e)
+4. Melakukan cancel semua order
+![cancel](https://github.com/samira-network/Super-Cashier/assets/137299240/e250fd09-e244-4267-b547-78cf206a967e)
 
-4. Melakuka perhitungan akhir
-   ![image](https://github.com/samira-network/Super-Cashier/assets/137299240/accccef9-b765-4fd3-bc2e-c1a23b1cf319)
+5. Melakuka perhitungan akhir
+![image](https://github.com/samira-network/Super-Cashier/assets/137299240/accccef9-b765-4fd3-bc2e-c1a23b1cf319)
 
 # Kesimpulan 
+- User dapat melakukan menambahkan item 
+- user dapat menambahkan banyak item 
+- program mampu menjalankan perintah perhitungan total harga per item saat melakkan check detail transaksi
+- user mampu melakukan update pada keranjang belanja 
+- user bisa menghapus item yang sudah masuk ke keranjang tanpa menghapuskan seluruh item di keranjang 
+- user bisa membatalkan seluruh belanjaannya dan secara otomatis di-reset transaksiya
+- pemrograman mampu menjalankan perintah ketika total harga mendapatkan diskon dari seluruh belanjaan dan menghitung harga setelah diskon 
 
 # Saran 
+-Program tidak mampu mendeteksi apakah item itu tersedia atau tidak di toko sebaiknya dibuat data list untuk item yg available beserta harga 
+-Program menggantungkan hanya pada terminal yang berjalan di platform sebaiknya integrasi menggunakan Web supaya user friendly 
+-Program tidak mampu menunjukan katalog yang tersedia di toko online sebaiknya dibuat item apa saja yang dijual 
+
+# Penjelasan video 
+
+https://youtu.be/v7HxK5Fpz8Av
