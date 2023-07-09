@@ -15,6 +15,7 @@ Saya telah membuat sistem kasir sederhana yang memenuhi persyaratan berikut:
 -Sistem juga melakukan pengecekan diskon yang didapatkan oleh pengguna.
 
 #Flow chart program 
+<img width="1364" alt="Flowchart Super Cashier" src="https://github.com/samira-network/Super-Cashier/assets/137299240/72f92849-bc2c-4c93-9846-feba49bb58ed">
 
 #Penjelasan Program 
 
