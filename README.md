@@ -50,8 +50,7 @@ Melakukan check detail pesanan apakah pesanan sudah masuk semua dan melakukan re
 
 
 # Test Code
-- Melakukan Memasukan item
-![cek 1](https://github.com/samira-network/Super-Cashier/assets/137299240/c11b9828-2807-4fb7-951a-92e128601bad)
+- Melakukan Memasukan item ![cek 1](https://github.com/samira-network/Super-Cashier/assets/137299240/c11b9828-2807-4fb7-951a-92e128601bad)
 
 - Melakukan menghapus item
 ![delete pasta](https://github.com/samira-network/Super-Cashier/assets/137299240/07ad0180-cba5-4e50-a454-4a91f2f99793)
